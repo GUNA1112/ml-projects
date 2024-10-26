@@ -1,1 +1,1 @@
-# ml-projects
+# lung cancer detection
