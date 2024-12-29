@@ -1,1 +1,2 @@
-# lung cancer detection
+# My academic projects
+
